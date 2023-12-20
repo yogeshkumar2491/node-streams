@@ -1,0 +1,15 @@
+{
+  "name": "node_streams",
+  "version": "1.0.0",
+  "description": "How to use streams to improve performance in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "Streams"
+  ], 
+  "author": "Yogesh Kumar",
+  "license": "ISC"
+}
